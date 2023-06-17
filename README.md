@@ -2,5 +2,4 @@
 
 # instaling necessary Libraries
 ## streamlit and openai
-
-#![Alt text]([image link](https://www.flaticon.com/free-icon/medical-robot_3273823)https://www.flaticon.com/free-icon/medical-robot_3273823)
+![Alt Text](https://drive.google.com/file/d/1tlH5mMRfKZVhevdl3ailzApXYP66IviG/view?usp=sharing)
